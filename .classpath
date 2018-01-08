@@ -16,7 +16,7 @@
 	<classpathentry kind="lib" path="lib/hadoop-annotations-2.5.2.jar"/>
 	<classpathentry kind="lib" path="lib/hadoop-auth-2.5.2.jar"/>
 	<classpathentry kind="lib" path="lib/hadoop-common-2.5.2-tests.jar"/>
-	<classpathentry kind="lib" path="lib/hadoop-common-2.5.2.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-common-2.5.2.jar" sourcepath="C:/Users/HoldDie/AppData/Local/Temp/.org.sf.feeling.decompiler1515329454441/source/hadoop-common-2.5.2-sources.jar"/>
 	<classpathentry kind="lib" path="lib/hadoop-distcp-2.5.1.jar"/>
 	<classpathentry kind="lib" path="lib/hadoop-hdfs-2.5.2-tests.jar"/>
 	<classpathentry kind="lib" path="lib/hadoop-hdfs-2.5.2.jar"/>
